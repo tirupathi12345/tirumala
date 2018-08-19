@@ -1,7 +1,11 @@
 devops 
 maven
 jenkins
+<<<<<<< HEAD
 docker
 git
 github
 sonarqub
+=======
+docker
+>>>>>>> 5affca93b2d6d4acdf5a1c1813ea2b2e96cf0832
